@@ -1,0 +1,23 @@
+.divContainer {
+    border: 1px solid black;
+    box-shadow: 0 0 20px rgb(192, 68, 68);
+    background-color: rgb(134, 118, 118);
+    margin: 30px;
+    /* max-height: 600px; */
+    max-width: 220px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 100px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .img {
+    max-width: 50%;
+    
+  }
+  body{
+    background-color: rgb(14, 15, 9);
+  }
